@@ -4,7 +4,7 @@ $$
 $$
 
 ```
-printf("生日快乐");
+printf("生日快乐！");
 print("生日快乐")
 cout << "生日快乐" << endl;
 System.out.println("生日快乐");
