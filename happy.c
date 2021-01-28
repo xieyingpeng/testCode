@@ -1,11 +1,17 @@
 #include<stdio.h>
 int main(){
-	printf("ÉúÈÕ¿ìÀÖ");
-	printf("ÉúÈÕ¿ìÀÖ");
-	printf("ÉúÈÕ¿ìÀÖ");
-	printf("ÉúÈÕ¿ìÀÖ");
-	printf("ÉúÈÕ¿ìÀÖ");
-	printf("ÉúÈÕ¿ìÀÖ");
-
+	printf("ç”Ÿæ—¥å¿«ä¹ï¼");
+	print("ç”Ÿæ—¥å¿«ä¹ï¼")
+	cout << "ç”Ÿæ—¥å¿«ä¹" << endl;
+	System.out.println("ç”Ÿæ—¥å¿«ä¹");
+	Console.WriteLine("ç”Ÿæ—¥å¿«ä¹");
+	System.Console.WriteLine("ç”Ÿæ—¥å¿«ä¹")
+	print_r("ç”Ÿæ—¥å¿«ä¹");
+	echo "ç”Ÿæ—¥å¿«ä¹";
+	$stringVar"ç”Ÿæ—¥å¿«ä¹";
+	NSLog(@"ç”Ÿæ—¥å¿«ä¹");
+	SELECT ''ç”Ÿæ—¥å¿«ä¹;
+	puts 'ç”Ÿæ—¥å¿«ä¹';
+	console.log("ç”Ÿæ—¥å¿«ä¹");
 	return 0 ;
 }
